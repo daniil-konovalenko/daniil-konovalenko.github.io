@@ -1,5 +1,5 @@
 ## Обо мне
-*   Мне 18 лет, живу в Москве
+*   Мне 19 лет, живу в Москве
 *   Учусь на 1 курсе факультета компьютерных наук НИУ ВШЭ на образовательной программе "Программная инженерия"
 
 ## Контакты 
@@ -16,7 +16,7 @@
 *   Git
 
 ## Проекты
-
+*   [Unaudio](https://t.me/unaudio): Telegram-bot для перевода голосовых сообщений в текст (python, python-telegram-bot, Google Speech API)
 *   [pesto](https://github.com/parallel-p/pesto) — система анализа посылок на ejudge или других тестирующих систем. Интегрирована с informatics.mccme.ru (ЛКШ.2015 параллель P, командный проект)
 *   [Анализ](https://docs.google.com/document/d/11sVcWf9Mby_w1H2k3xjQKFxv0qG48uPTR71Ko0C1IkQ/edit?usp=sharing) тематики лекций на TED (pandas, nltk, sklearn) (GoTo hackathon)
 *   Анализ динамики репостов записей ВКонтакте (GoTo hackathon) 
@@ -33,4 +33,4 @@
 *   Español (Básico)
 
 ## Опыт
-*   Преподавал в ЛКШ.2016.август в параллели C'
+*   Преподавал в ЛКШ.2016.август, ЛКШ.2017.август в параллели C'
