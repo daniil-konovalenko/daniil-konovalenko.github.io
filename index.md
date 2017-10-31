@@ -8,6 +8,10 @@
 *   Telegram: [danielkono](https://telegram.me/danielkono)
 *   VK: [vk.com/danielkono](https://vk.com/danielkono)
 
+## Опыт работы
+**Python/Django разработчик** в [Junto](http://juntoteam.com)  
+*с октября 2017 по настоящее время*
+
 ## Технологии
 
 *   Python: Django, Flask, анализ данных
