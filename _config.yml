@@ -1,7 +1,7 @@
 title: Даниил Коноваленко
 description: 
 google_analytics: UA-100077645-1
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
 
 gems:
   - jekyll-mentions
